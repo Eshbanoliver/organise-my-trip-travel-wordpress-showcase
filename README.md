@@ -18,7 +18,6 @@ Custom WordPress website developed for Organise My Trip, a trusted travel agency
 - Stats counters: 10000+ Happy Travelers, 1200+ Customized Trips Planned, 99% Positive Reviews, 8+ Years Experience, 5+ Locations Worldwide
 - Testimonials carousel with real client quotes (e.g., Kerala trip, Bali honeymoon, family tour, Europe, Dubai) praising smooth execution, recommendations, and memorable experiences
 - "How It Works" or process highlights (tailor-made packages, expert guidance, trusted network)
-- Contact/Appointment section with phone (+91 8905523568), WhatsApp, email (likely from form), and inquiry/booking form
 - Responsive design optimized for travel visuals (mobile-first)
 - SEO-friendly for tour package and destination searches
 
